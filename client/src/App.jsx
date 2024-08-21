@@ -36,14 +36,14 @@ function App() {
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
-        {array.map((buah, index) => {
+        {/* {array.map((buah, index) => {
           return (
             <div key={index}>
               <p>{buah}</p>
               <br />
             </div>
           );
-        })}
+        })} */}
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
